@@ -62,7 +62,8 @@ function showSuggestions(list){
 let suggestions = [
     "attacker_ king",
     "defender_ king",
-    "Robb Stark"
+    "Robb Stark",
+    "king=Robb Stark"
 ];
 
 
